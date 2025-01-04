@@ -33,4 +33,4 @@ I am a full-stack developer who is constantly learning and improving my skills. 
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Natali-Martinez-natidevelop/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natali-martinez-64ba5a300/)
