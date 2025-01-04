@@ -16,7 +16,7 @@ I am a full-stack developer who is constantly learning and improving my skills. 
 
  - 💬 Ask me about software development best practices.
 
- - 📫 How to reach me: LinkedIn: [https://www.linkedin.com/in/Natali Martinez/](https://www.linkedin.com/in/Natali Martinez/) | Email: natimartalvarez@gmail.com 
+ - 📫 How to reach me:Email: natimartalvarez@gmail.com 
 
  - ⚡ Fun fact: I love being in contact with nature; plants and animals are my passion.
 
