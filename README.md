@@ -1,9 +1,10 @@
-# Hi there, I am natidevelop 👋
+# Hi there, I am natidevelop 👋👩‍💻
 
-<!--
-**natidevelop/natidevelop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Profile Views](https://komarev.com/ghpvc/?username=natidevelop)](https://github.com/natidevelop)
 
-Here are some ideas to get you started:
+## About Me
+
+I am a full-stack developer who is constantly learning and improving my skills. I am always willing to explore new tools and frameworks to grow and continue moving forward.
 
  - 🔭 I’m currently working on my online portfolio to showcase my projects.
 
