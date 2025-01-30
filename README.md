@@ -4,7 +4,9 @@
 
 ## About Me
 
-I am a full-stack developer who is constantly learning and improving my skills. I am always willing to explore new tools and frameworks to grow and continue moving forward.
+I am a full-stack developer who is constantly learning and improving my skills. Since I started my first projects I feel very confident and very comfortable creating new and useful things, applying what I have learned but also challenging myself with new things that I am learning along the way on my own and I notice my growth and my security day by day.
+
+
 
  - 🔭 I’m currently working on my online portfolio to showcase my projects.
 
