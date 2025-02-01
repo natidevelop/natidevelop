@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a full-stack developer who is constantly learning and improving my skills. Since I started my first projects I feel very confident and very comfortable creating new and useful things, applying what I have learned but also challenging myself with new things that I am learning along the way on my own and I notice my growth and my security day by day.
+I am a full-stack developer in constant evolution, with strong confidence in my skills and a mindset of continuous learning. Every project is an opportunity to create innovative and functional solutions, applying my knowledge with precision while exploring and mastering new technologies. I constantly challenge myself to grow beyond what I already know, expanding my expertise through self-learning. My progress is evident every day, and I am always ready to keep learning and improving.
 
 
 
